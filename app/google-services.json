@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "78223002814",
+    "firebase_url": "https://enigeria.firebaseio.com",
+    "project_id": "enigeria",
+    "storage_bucket": "enigeria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78223002814:android:82835addd1b70e043f62ef",
+        "android_client_info": {
+          "package_name": "com.example.remoteconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78223002814-jtgstgu5b514bghaksanqumar5o8k320.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA59DwFKxZG6QC2yG8_YPP1QSQ8n2zNwpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78223002814-jtgstgu5b514bghaksanqumar5o8k320.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78223002814:android:da001e54fe0195c73f62ef",
+        "android_client_info": {
+          "package_name": "com.shamrock.enigeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78223002814-j895cv37dqtlptfsa0nvqnkog701rklg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shamrock.enigeria",
+            "certificate_hash": "5b9b608f2b9345421f536e53ee06254d1e4e51a0"
+          }
+        },
+        {
+          "client_id": "78223002814-jtgstgu5b514bghaksanqumar5o8k320.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA59DwFKxZG6QC2yG8_YPP1QSQ8n2zNwpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78223002814-jtgstgu5b514bghaksanqumar5o8k320.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

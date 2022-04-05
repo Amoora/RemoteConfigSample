@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<defaultsMap>
+    <entry>
+        <key>introduction_title</key>
+        <value>Remote Config Tutorial</value>
+    </entry>
+    <entry>
+        <key>introduction_msg</key>
+        <value>I love Android Development</value>
+    </entry>
+</defaultsMap>
+    <!-- END xml_defaults -->
